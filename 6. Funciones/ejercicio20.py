@@ -8,3 +8,4 @@ def externa (lista):
 
 uvas = externa (numeros)
 uvas()
+
