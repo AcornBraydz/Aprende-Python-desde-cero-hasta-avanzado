@@ -1,5 +1,3 @@
-
-
 producto = 1
 
 print ('\t\tMultiplicador de una lista de numeros del 1 al 10')
